@@ -1,6 +1,5 @@
 .kutucuk
 {
-    
     border-radius: 150px;
 }
 
@@ -11,7 +10,7 @@
 
 .logo 
 {
-    margin: 150px 0px 0px 40% ;
+    margin: 100px 0px 0px 40% ;
 }
 
 .arama
@@ -38,4 +37,5 @@
     margin: 2%;
     position: absolute;
     bottom: 5%;
+    vertical-align: 50%;
 }

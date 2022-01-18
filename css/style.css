@@ -1,0 +1,30 @@
+.kutucuk
+{
+    
+    border-radius: 150px;
+}
+
+.sagla 
+{
+    text-align: right;
+}
+
+.logo 
+{
+    margin: 150px 0px 0px 40% ;
+}
+
+.arama
+{
+    width: 480px;
+    border-radius: 10px;
+    height: 30px;
+    margin-left: 490px;
+}
+.border {
+    border-radius: 10px;
+    
+}
+.center{
+    text-align: center;
+}
